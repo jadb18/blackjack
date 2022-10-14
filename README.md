@@ -8,7 +8,7 @@ I initially wrote this as a simpler program to help teach programming, then late
 
 Compile with (usually) clang++, c++, or g++ and run:
 
-`% c++ blackjack.cpp -o blackjack`
+`% c++ blackjack.cpp -o blackjack`\
 `% ./blackjack`
 
 ## Example game:
@@ -48,5 +48,5 @@ q
 Thanks for playing!
 ```
 
-By Jad Beydoun <jadb@go.mail.umich.edu>
+By Jad Beydoun - <jadb@go.mail.umich.edu>
 
