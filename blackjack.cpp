@@ -3,6 +3,7 @@
 // Blackjack
 //
 // By Jad Beydoun on 9/29/2019.
+// Thank you to Mounir Dabbagh for extensive help with testing, debugging, and code review.
 //
 
 #include <iostream>
